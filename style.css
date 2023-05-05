@@ -88,7 +88,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: end;
-    background-image:url(../tp-integrador/imgs/ba1.jpg);
+    background-image:url(./imgs/ba1.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -231,7 +231,7 @@ article.card {
     flex-flow: wrap;
     justify-content: space-between;
 }
-/**/
+/*beach section*/
 .container-fluid {
     box-sizing: border-box;
     margin: 0 !important;
@@ -260,7 +260,8 @@ article.card {
 .playa-text p {
     font-size: 3vh;
 }
-/**/
+
+/*form section*/
 .form-container {
     box-sizing: border-box;
    
@@ -287,7 +288,7 @@ text-decoration-style: dotted;
     margin-bottom: 1vh;
     font-size: 2vh;
 }
-/**/
+/*footer section*/
 .container-footer {
     box-sizing: border-box;
     max-width: 100%;
