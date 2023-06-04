@@ -57,7 +57,7 @@ function total_a_pagar()
 
     if( (cantidadTickets.value<=0) || (isNaN(cantidadTickets.value)))
     {
-        alert("Escribir bien el mail...");
+        alert("Seleccione una cantidad...");
         cantidadTickets.classList.add("is-invalid");
         cantidadTickets.focus();
         return ;
